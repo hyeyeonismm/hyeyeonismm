@@ -2,12 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=220&section=header&text=Hyeyeon's%20GitHub&fontSize=60&animation=fadeIn&fontAlign=65&fontAlignY=35&desc=developer%20&descAlignY=55&descAlign=88&fontColor=fff"/>
 </p>
 
-## 📫 Contacts
-<a href="mailto:hyeyeonismm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-	
-
-<br/>
-
 ## 🌐 Activities
 
 📌 신한투자증권 ICT부문 인턴 [플랫폼개발부/정보시스템부] (2023.10 ~ 2023.11)
