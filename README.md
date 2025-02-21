@@ -1,34 +1,3 @@
-<p >
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=220&section=header&text=Hyeyeon's%20GitHub&fontSize=60&animation=fadeIn&fontAlign=65&fontAlignY=35&desc=developer%20&descAlignY=55&descAlign=88&fontColor=fff"/>
-</p>
-
-<div align=center>
-    
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeyeonismm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-    [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyeyeonismm)](https://solved.ac/hyeyeonismm)
-</div>
-
-
-<br/>
-
-## 🌐 Activities
-
-📌 신한투자증권 ICT부문 인턴 [플랫폼개발부/정보시스템부] (2023. 10 ~ 2023. 11)
-
-<br/>
-
-## 🏆 Awards
-
-🥇 2023 동국대학교 해커톤 최우수상 (2023. 12)
-
-🥇 한국통신학회 아이디어 경진대회 장려상 (2023. 06)
-
-
-
-<br/>
-
-## 📚 Skills
 
  __Languages & Frameworks__
   
